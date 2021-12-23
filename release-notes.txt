@@ -1,0 +1,18 @@
+v0.1.0 
+- Initial version
+
+v0.2.0
+- Added email notification
+- Added release notes page
+- Added overview chart page
+
+v0.3.0
+- Added icon
+- Added user management page (admin mode) 
+- Added transaction page
+- Bugfix: lplaat and bplaat found a hack in to the system. This is now fixed!
+		
+v1.0.0
+- Rewrite in Vaadin
+- Create release note page
+- Upgrade to Vaadin 14.6.8
